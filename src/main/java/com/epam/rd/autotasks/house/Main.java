@@ -8,6 +8,7 @@ import com.epam.rd.autotasks.residents.dogs.Puppy;
 
 public class Main {
 
+
     public static void main(String[] args) {
         Dog rex = new Dog("Rax");
         Puppy randy = new Puppy("Randy");
