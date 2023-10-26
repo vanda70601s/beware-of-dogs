@@ -14,6 +14,7 @@ public class Main {
         Cat barbos = new Cat("Barbos");
         Kitten murzik = new Kitten("Murzik");
 
+
         House dogHouse = new House();
         dogHouse.enter(rex);
         dogHouse.enter(randy);
